@@ -18,7 +18,7 @@ navbarlinks:
 - navbar:    "TarBall"
   link:      "/template.tar.bz2"
 - navbar:    "GitHub"
-  link:      "https://github.com/ThisIsHowMeDoIt/template/"
+  link:      "https://github.com/kalEl2001/sp221"
 - navbar:    "Listing"
   link:      "/000.html"
 - navbar:    "About"
