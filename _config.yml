@@ -1,5 +1,5 @@
-version:     "0018b--03-Aug-2021"
-copyright:   "2021-2021"
+version:     "0001a--13-Feb-2022"
+copyright:   "2021-2022"
 description:
   This is a
   GitHub Page Template
@@ -11,8 +11,8 @@ navbarlinks:
   link:      "/"
 - navbar:    "Links"
   link:      "/LINKS/"
-- navbar:    "Tips"
-  link:      "/TIPS/"
+- navbar:    "Logs"
+  link:      "/TXT/mylog.txt"
 - navbar:    "Zip File"
   link:      "/template.zip"
 - navbar:    "TarBall"
@@ -27,8 +27,8 @@ navbarlinks:
   link:      "https://template.vlsm.org/"
 title:       "GitHub Page Template"
 lang:        "en-US"
-author:      "J. Walker"
-address:     "Box 7, Mawitaan, Bangalla."
+author:      "Samuel"
+address:     "Tangerang, Banten, Indonesia"
 sitemap:     "true"
 markdown:    "kramdown"
 defaults:
@@ -43,8 +43,6 @@ plugins:
 - jekyll-seo-tag
 google_analytics: "UA-89852122-15"
 
-urlweb:           "https://template.vlsm.org/"
-urlcontact:       "TBA"
-urlgithub:        "https://github.com/ThisIsHowMeDoIt/template"
+urlgithub:        "https://github.com/kalEl2001/sp221"
 
 
