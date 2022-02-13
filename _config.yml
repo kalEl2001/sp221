@@ -23,7 +23,7 @@ navbarlinks:
   link:      "/000.html"
 - navbar:    "About"
   link:      "/ABOUT/"
-- navbar:    "GitHub Page"
+- navbar:    "GitHub Page Template"
   link:      "https://template.vlsm.org/"
 title:       "GitHub Page Template"
 lang:        "en-US"
