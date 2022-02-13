@@ -1,0 +1,6 @@
+# Log Format
+# ZCZC WEEK# MINUTES LogCode Description
+# LogCode + Description List
+ZCZC W00 100 L02 Weekly Zoom meeting
+ZCZC W00 60 L22 Week 0 quiz
+ZCZC W00 10 L03 GitHub repository setup
