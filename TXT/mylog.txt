@@ -3,6 +3,11 @@
 # LogCode + Description List
 ZCZC W00 100 L02 Weekly Zoom meeting
 ZCZC W00 60 L22 Week 0 quiz
-ZCZC W00 10 L03 GitHub repository setup
-ZCZC W00 10 L10 Course administration
-ZCZC W00 60 L04 Configuring GitHub Pages
+ZCZC W00 10 L11 GitHub repository setup
+ZCZC W00 10 L14 Course administration
+ZCZC W00 60 L13 Configuring GitHub Pages
+ZCZC W00 120 L16 Installing Debian on VirtualBox
+ZCZC W00 45 L15 Reading assignment
+ZCZC W00 15 L12 Creating and updating log
+ZCZC W00 20 L17 GnuPG
+
