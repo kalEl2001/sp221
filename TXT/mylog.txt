@@ -13,3 +13,4 @@ ZCZC W00 20 L17 GnuPG
 ZCZC W01 100 L02 Weekly Zoom meeting
 ZCZC W01 20 L11 Preparation for the assignments
 ZCZC W01 80 L12 Compile and install latest Linux kernel
+ZCZC W01 25 L13 Download and build TLPI and list all the files inside the distribution folder
