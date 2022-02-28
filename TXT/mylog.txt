@@ -14,3 +14,10 @@ ZCZC W01 100 L02 Weekly Zoom meeting
 ZCZC W01 20 L11 Preparation for the assignments
 ZCZC W01 80 L12 Compile and install latest Linux kernel
 ZCZC W01 25 L13 Download and build TLPI and list all the files inside the distribution folder
+ZCZC W02 80 L02 Weekly Zoom meeting
+ZCZC W02 30 L02 Weekly QnA
+ZCZC W02 20 L05 Week 02 quiz
+ZCZC W02 20 L11 Script download and preparation for W02 assignments
+ZCZC W02 60 L12 LFS 11 Chapter 01-04
+ZCZC W02 260 L13 LFS 11 Chapter 05-07
+ZCZC W02 5 L09 Update logs, run script
