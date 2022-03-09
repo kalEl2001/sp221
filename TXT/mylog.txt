@@ -21,3 +21,11 @@ ZCZC W02 20 L11 Script download and preparation for W02 assignments
 ZCZC W02 60 L12 LFS 11 Chapter 01-04
 ZCZC W02 260 L13 LFS 11 Chapter 05-07
 ZCZC W02 5 L09 Update logs, run script
+ZCZC W03 100 L02 Weekly Zoom meeting
+ZCZC W03 25 L02 Weekly QnA
+ZCZC W03 20 L22 Week 03 quiz
+ZCZC W03 30 L11 Reading assignment
+ZCZC W03 100 L12 Fuse tutorial
+ZCZC W03 25 L11 Compile and install new kernel
+ZCZC W03 5 L13 Script download and run
+ZCZC W03 10 L00 Update log, commit, and push.
