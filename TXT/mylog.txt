@@ -43,3 +43,10 @@ ZCZC W05 10 L12 Script download, read, and run
 ZCZC W05 50 L11 Kernel update to 5.16.15 and 5.17
 ZCZC W05 120 L13 Scripting assignment
 ZCZC W05 45 L13 FUSE Project Proposal
+ZCZC W07 100 L02 Weekly Zoom meeting + quiz
+ZCZC W07 50 L02 Weekly QnA
+ZCZC W07 30 L11 Kernel update to 5.17.3
+ZCZC W07 30 L11 Kernel update to 5.17.4
+ZCZC W07 60 L11 Reading assignment
+ZCZC W07 10 L12 Script download, read, and run
+ZCZC W07 90 L13 Kernel modules
