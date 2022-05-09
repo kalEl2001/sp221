@@ -50,3 +50,9 @@ ZCZC W07 30 L11 Kernel update to 5.17.4
 ZCZC W07 60 L11 Reading assignment
 ZCZC W07 10 L12 Script download, read, and run
 ZCZC W07 90 L13 Kernel modules
+ZCZC W08 100 L02 Weekly Zoom meeting + quiz
+ZCZC W08 50 L02 Weekly QnA
+ZCZC W08 40 L11 Kernel update to 5.17.6
+ZCZC W08 60 L11 Reading assignment
+ZCZC W08 10 L12 Script download, read, and run
+ZCZC W08 10 L13 Moved log to SP_RESULT folder
