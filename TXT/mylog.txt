@@ -61,3 +61,8 @@ ZCZC W09 30 L02 Weekly QnA
 ZCZC W09 30 L11 Reading assigment
 ZCZC W09 10 L12 Script download, read, and run
 ZCZC W09 5 L13 Moved log to SP_RESULT folder
+ZCZC W10 100 L02 Weekly Zoom meeting + quiz
+ZCZC W10 40 L11 Kernel update to 5.18
+ZCZC W10 30 L11 Reading assignment
+ZCZC W10 10 L12 Script download, read, and run
+ZCZC W10 5 L13 Moved log to SP_RESULT folder
